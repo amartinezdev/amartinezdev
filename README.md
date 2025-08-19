@@ -2,7 +2,7 @@
 <div align="center">
   <h1>Hi there 👋, I'm Álvaro Martínez from Spain 🇪🇸</h1>
   <h3>Passionate about turning ideas into code, solving real problems, and always looking for the next challenge</h3>
-  <p>Currently diving deeper into the world of <b>Full-Stack Development</b> 📚</p>
+  <h4>Currently diving deeper into the world of <b>Full-Stack Development</b> 📚</h4>
 </div>
 <br>
 <!-- BODY -->
