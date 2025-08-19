@@ -43,6 +43,21 @@
 </div>
 
 
+<!-- FOOTER -->
+<div>
+  <h2>📫 Connect with Me</h2>
+  <p align="center">
+    <a href="https://alvaromartinez.dev" target="_blank">
+      <img src="https://img.shields.io/badge/alvaromartinez.dev-000000?style=for-the-badge&logo=devbox&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/alvaromartinezdev/" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logoColor=white" />
+    </a>
+    <a href="mailto:alvaromartinezdev@gmail.com">
+      <img src="https://img.shields.io/badge/alvaromartinezdev@gmail.com-D14836?style=for-the-badge&logo=minutemailer&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 
 
