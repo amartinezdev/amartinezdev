@@ -41,7 +41,7 @@
   </p> 
   <br>
   <p align="center">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=amartinezdev&layout=compact&langs_count=6&hide_values=true&theme=dark" alt="Top Lenguages">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=amartinezdev&layout=compact&hide_progress=true&langs_count=6&hide_values=true&theme=dark" alt="Top Lenguages">
     
     
   </p>
