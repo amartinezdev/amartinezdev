@@ -40,7 +40,7 @@ Desarrollador Full-Stack Junior en Murcia, España. Graduado en Desarrollo de Ap
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=amartinezdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="450" />
+<img src="https://github-stats-extended.vercel.app/api?username=amartinezdev&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark" width="450" />
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=amartinezdev&layout=compact&hide_progress=true&langs_count=6&hide_values=true&theme=dark&v=2" alt="Top Lenguages">
 
