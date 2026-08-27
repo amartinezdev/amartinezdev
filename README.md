@@ -11,13 +11,15 @@ Graduado en DAW con expediente destacado. Construyo aplicaciones completas de pr
 <a href="https://github.com/amartinezdev/cine"><img src="https://github-stats-extended.vercel.app/api/pin?username=amartinezdev&repo=amartinezdev%2FCine&description_lines_count=1&theme=darcula" width="450" /></a>
 <a href="https://github.com/amartinezdev/restaurante"><img src="https://github-stats-extended.vercel.app/api/pin?username=amartinezdev&repo=amartinezdev%2Frestaurante&description_lines_count=1&theme=darcula" width="450" /></a>
 
+**[Ver demo — Cine](https://alvaromartinez.dev/cine)** — **[Ver demo — Restaurante](https://alvaromartinez.dev/restaurante)**
+
 </div>
 
-**[Cine](https://github.com/amartinezdev/cine)** — catálogo público + panel admin para salas de cine. Promociones con notificaciones por Telegram, gestión de contenido con subida de imágenes, auth completa por roles.
-`Laravel` `PHP` `MySQL` · **[Demo](https://alvaromartinez.dev/cine)**
+**[Cine](https://github.com/amartinezdev/cine)** — catálogo público + panel admin para salas de cine. Promociones con notificaciones por Telegram, gestión de contenido con subida de imágenes, auth completa por roles. <br>
+`Laravel` `PHP` `MySQL`
 
-**[Restaurante](https://github.com/amartinezdev/restaurante)** — gestión de pedidos y sala con 3 roles (cliente/camarero/gerente). Control de stock en tiempo real, facturación en PDF, impresión de tickets por red, CI/CD con GitHub Actions.
-`PHP` `MySQL` `GitHub Actions` · **[Demo](https://alvaromartinez.dev/restaurante)**
+**[Restaurante](https://github.com/amartinezdev/restaurante)** — gestión de pedidos y sala con 3 roles (cliente/camarero/gerente). Control de stock en tiempo real, facturación en PDF, impresión de tickets por red, CI/CD con GitHub Actions. <br>
+`PHP` `MySQL` `GitHub Actions`
 
 **Gestión de stock** *(en desarrollo)* — inventario full stack para consolidar Java + Spring Boot en el backend con Angular en el frontend.
 `Java` `Spring Boot` `Angular` `PostgreSQL`
