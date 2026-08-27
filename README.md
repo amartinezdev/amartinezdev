@@ -39,11 +39,17 @@ Graduado en DAW con expediente destacado. Construyo aplicaciones completas de pr
 
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Bases%20de%20datos%20%26%20Herramientas&align=center&titleAlign=center&theme=react&width=600&line1=mysql,MySQL,auto;postgresql,PostgreSQL,auto;git,Git,auto;github,GitHub,auto;docker,Docker,auto" alt="Bases de datos y herramientas" />
 
-<br>
+</div>
+
+<!-- ## Lenguajes más usados
+
+Distribución real de lenguajes en mis repositorios, sin curar:
+
+<div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=amartinezdev&layout=compact&hide_progress=true&langs_count=6&hide_values=true&theme=dark&v=2" alt="Top Lenguages" />
 
-</div>
+</div> -->
 
 ## Contacto
 
