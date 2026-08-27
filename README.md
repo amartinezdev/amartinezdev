@@ -1,6 +1,6 @@
 # Álvaro Martínez
 
-**Desarrollador Full Stack Junior** · Murcia, España · Orientado a backend Java / Spring Boot
+**Desarrollador Full Stack Junior** · Murcia, España
 
 Graduado en DAW con expediente destacado. Construyo aplicaciones completas de principio a fin, de la base de datos al despliegue.
 
