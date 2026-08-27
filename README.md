@@ -1,70 +1,45 @@
 # Álvaro Martínez
 
-**Desarrollador Full Stack Junior** · Backend orientado a Java / Spring Boot · Murcia, España
+**Desarrollador Full Stack Junior** · Murcia, España · Orientado a backend Java / Spring Boot
 
-Graduado en Desarrollo de Aplicaciones Web (DAW) con expediente destacado. Construyo aplicaciones completas de principio a fin — de la base de datos al despliegue — y ahora mismo estoy orientando mi crecimiento técnico hacia backend en Java y Spring Boot.
-
-Buscando mi primera posición como desarrollador backend o full stack.
-
----
-
-## Stack
-
-**Backend**
-`PHP` · `Laravel` · `Node.js` · `REST APIs`
-
-**Frontend**
-`JavaScript` · `HTML5` · `CSS3` · `Bootstrap` · `Tailwind CSS`
-
-**Bases de datos**
-`MySQL` · `PostgreSQL`
-
-**Herramientas**
-`Git` · `GitHub` · `Docker` · `GitHub Actions`
-
-**Ampliando conocimientos**
-`Java` · `Spring Boot` · `Angular` · `React`
-
----
+Graduado en DAW con expediente destacado. Construyo aplicaciones completas de principio a fin, de la base de datos al despliegue.
 
 ## Proyectos destacados
 
-### [Cine](https://github.com/amartinezdev/cine) — gestión de cartelera para salas de cine
+<div align="center">
 
-Aplicación Laravel con catálogo público (búsqueda y filtrado por género) y panel de administración completo para películas, géneros y promociones.
+<a href="https://github.com/amartinezdev/cine"><img src="https://github-stats-extended.vercel.app/api/pin?username=amartinezdev&repo=amartinezdev%2FCine&description_lines_count=1&theme=dracula" width="450" /></a>
+<a href="https://github.com/amartinezdev/restaurante"><img src="https://github-stats-extended.vercel.app/api/pin?username=amartinezdev&repo=amartinezdev%2Frestaurante&description_lines_count=1&theme=dracula" width="450" /></a>
 
-- Gestión de contenido con subida de imágenes (Spatie Media Library)
-- Sistema de promociones con notificaciones automáticas vía Telegram Bot API y desactivación programada de las que caducan
-- Autenticación completa (registro, verificación de email, recuperación de contraseña) y control de acceso por roles
-- Tests con PHPUnit
+</div>
 
-`Laravel 9` `PHP 8` `Blade` `Tailwind CSS` `MySQL`
+**[Cine](https://github.com/amartinezdev/cine)** — catálogo público + panel admin para salas de cine. Promociones con notificaciones por Telegram, gestión de contenido con subida de imágenes, auth completa por roles.
+`Laravel` `PHP` `MySQL` · **[Demo](https://alvaromartinez.dev/cine)**
 
-**[→ Ver demo](https://alvaromartinez.dev/cine)** · [Repositorio](https://github.com/amartinezdev/cine)
+**[Restaurante](https://github.com/amartinezdev/restaurante)** — gestión de pedidos y sala con 3 roles (cliente/camarero/gerente). Control de stock en tiempo real, facturación en PDF, impresión de tickets por red, CI/CD con GitHub Actions.
+`PHP` `MySQL` `GitHub Actions` · **[Demo](https://alvaromartinez.dev/restaurante)**
 
-### [Restaurante](https://github.com/amartinezdev/restaurante) — gestión de pedidos y sala
-
-Sistema para restaurantes que cubre el flujo completo: mesas, pedidos por rondas acumulativas, control de stock y facturación, con tres roles de usuario (cliente, camarero, gerente).
-
-- Control de stock en tiempo real, con productos que se ocultan automáticamente al agotarse
-- Generación de facturas en PDF e impresión de tickets de cocina/cuenta por red (ESC/POS)
-- Panel de estadísticas con ingresos y métricas de clientes
-- CI/CD con GitHub Actions hacia despliegue en producción
-
-`PHP` `MySQL` `Bootstrap` `Tailwind CSS` `GitHub Actions`
-
-**[→ Ver demo](https://alvaromartinez.dev/restaurante)** · [Repositorio](https://github.com/amartinezdev/restaurante)
-
-### Gestión de stock — en desarrollo
-
-Aplicación full stack para control de inventario, construida como proyecto para consolidar Java y Spring Boot en el backend con Angular en el frontend.
-
+**Gestión de stock** *(en desarrollo)* — inventario full stack para consolidar Java + Spring Boot en el backend con Angular en el frontend.
 `Java` `Spring Boot` `Angular` `PostgreSQL`
 
----
+## Stack
+
+<div align="center">
+
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend&align=center&titleAlign=center&theme=dracula&width=600&lineCount=2&line1=html5,HTML,auto;css3,CSS,auto;javascript,JavaScript,auto&line2=react,React,auto;tailwindcss,Tailwind%20CSS,auto;astro,Astro,auto" alt="Frontend" />
+
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend&align=center&titleAlign=center&theme=dracula&width=600&lineCount=2&line1=nodedotjs,Node.js,auto;express,ExpressJS,auto;openjdk,Java,auto&line2=spring,Spring,auto;php,PHP,auto;laravel,Laravel,auto" alt="Backend" />
+
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Bases%20de%20datos%20%26%20Herramientas&align=center&titleAlign=center&theme=dracula&width=600&line1=mysql,MySQL,auto;postgresql,PostgreSQL,auto;git,Git,auto;github,GitHub,auto;docker,Docker,auto" alt="Bases de datos y herramientas" />
+
+<br>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=amartinezdev&layout=compact&hide_progress=true&langs_count=6&hide_values=true&theme=dracula&v=2" alt="Top Lenguages" />
+
+</div>
 
 ## Contacto
 
 [![Portfolio](https://img.shields.io/badge/alvaromartinez.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alvaromartinez.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaromartinezdev/)
+[![LinkedIn](assets/linkedin-badge.svg)](https://www.linkedin.com/in/alvaromartinezdev/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvaromartinezdev@gmail.com)
