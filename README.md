@@ -8,35 +8,40 @@ Graduado en DAW con expediente destacado. Construyo aplicaciones completas de pr
 
 <div align="center">
 
-<a href="https://github.com/amartinezdev/cine"><img src="https://github-stats-extended.vercel.app/api/pin?username=amartinezdev&repo=amartinezdev%2FCine&description_lines_count=1&theme=darcula" width="450" /></a>
-<a href="https://github.com/amartinezdev/restaurante"><img src="https://github-stats-extended.vercel.app/api/pin?username=amartinezdev&repo=amartinezdev%2Frestaurante&description_lines_count=1&theme=darcula" width="450" /></a>
-
-**[Ver demo — Cine](https://alvaromartinez.dev/cine)** — **[Ver demo — Restaurante](https://alvaromartinez.dev/restaurante)**
+<a href="https://github.com/amartinezdev/cine"><img src="https://github-stats-extended.vercel.app/api/pin?username=amartinezdev&repo=amartinezdev%2FCine&description_lines_count=1&theme=dark" width="450" /></a>
 
 </div>
 
-**[Cine](https://github.com/amartinezdev/cine)** — catálogo público + panel admin para salas de cine. Promociones con notificaciones por Telegram, gestión de contenido con subida de imágenes, auth completa por roles. <br>
+**[Cine](https://github.com/amartinezdev/cine)** ([_Ver demo_](https://alvaromartinez.dev/cine)) — catálogo público + panel admin para salas de cine. Promociones con notificaciones por Telegram, gestión de contenido con subida de imágenes, auth completa por roles. <br>
 `Laravel` `PHP` `MySQL`
 
-**[Restaurante](https://github.com/amartinezdev/restaurante)** — gestión de pedidos y sala con 3 roles (cliente/camarero/gerente). Control de stock en tiempo real, facturación en PDF, impresión de tickets por red, CI/CD con GitHub Actions. <br>
+<div align="center">
+
+<a href="https://github.com/amartinezdev/restaurante"><img src="https://github-stats-extended.vercel.app/api/pin?username=amartinezdev&repo=amartinezdev%2Frestaurante&description_lines_count=1&theme=dark" width="450" /></a>
+
+</div>
+
+**[Restaurante](https://github.com/amartinezdev/restaurante)** ([_Ver demo_](https://alvaromartinez.dev/restaurante)) — gestión de pedidos y sala con 3 roles (cliente/camarero/gerente). Control de stock en tiempo real, facturación en PDF, impresión de tickets por red, CI/CD con GitHub Actions.<br>
 `PHP` `MySQL` `GitHub Actions`
 
-**Gestión de stock** *(en desarrollo)* — inventario full stack para consolidar Java + Spring Boot en el backend con Angular en el frontend.
+---
+
+**Gestión de stock** *(en desarrollo)* — inventario full stack para consolidar Java + Spring Boot en el backend con Angular en el frontend. <br>
 `Java` `Spring Boot` `Angular` `PostgreSQL`
 
 ## Stack
 
 <div align="center">
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend&align=center&titleAlign=center&theme=darcula&width=600&lineCount=2&line1=html5,HTML,auto;css3,CSS,auto;javascript,JavaScript,auto&line2=react,React,auto;tailwindcss,Tailwind%20CSS,auto;astro,Astro,auto" alt="Frontend" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend&align=center&titleAlign=center&theme=react&width=600&lineCount=2&line1=html5,HTML,auto;css3,CSS,auto;javascript,JavaScript,auto&line2=react,React,auto;tailwindcss,Tailwind%20CSS,auto;astro,Astro,auto" alt="Frontend" />
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend&align=center&titleAlign=center&theme=darcula&width=600&lineCount=2&line1=nodedotjs,Node.js,auto;express,ExpressJS,auto;openjdk,Java,auto&line2=spring,Spring,auto;php,PHP,auto;laravel,Laravel,auto" alt="Backend" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend&align=center&titleAlign=center&theme=react&width=600&lineCount=2&line1=nodedotjs,Node.js,auto;express,ExpressJS,auto;openjdk,Java,auto&line2=spring,Spring,auto;php,PHP,auto;laravel,Laravel,auto" alt="Backend" />
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Bases%20de%20datos%20%26%20Herramientas&align=center&titleAlign=center&theme=darcula&width=600&line1=mysql,MySQL,auto;postgresql,PostgreSQL,auto;git,Git,auto;github,GitHub,auto;docker,Docker,auto" alt="Bases de datos y herramientas" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Bases%20de%20datos%20%26%20Herramientas&align=center&titleAlign=center&theme=react&width=600&line1=mysql,MySQL,auto;postgresql,PostgreSQL,auto;git,Git,auto;github,GitHub,auto;docker,Docker,auto" alt="Bases de datos y herramientas" />
 
 <br>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=amartinezdev&layout=compact&hide_progress=true&langs_count=6&hide_values=true&theme=darcula&v=2" alt="Top Lenguages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=amartinezdev&layout=compact&hide_progress=true&langs_count=6&hide_values=true&theme=dark&v=2" alt="Top Lenguages" />
 
 </div>
 
