@@ -8,6 +8,16 @@ Desarrollador Full-Stack Junior en Murcia, España. Graduado en Desarrollo de Ap
 - 🚧 Construyendo una app de gestión de stock con **Spring Boot** y **Angular**
 - 🤖 Metiéndome de lleno en la IA generativa aplicada al desarrollo
 
+## 🛠️ Proyectos destacados
+
+<div align="center">
+
+<a href="https://github.com/amartinezdev/cine"><img src="https://github-stats-extended.vercel.app/api/pin?username=amartinezdev&repo=amartinezdev%2FCine&description_lines_count=1&theme=github_dark" width="450" /></a>
+
+<a href="https://github.com/amartinezdev/restaurante"><img src="https://github-stats-extended.vercel.app/api/pin?username=amartinezdev&repo=amartinezdev%2Frestaurante&description_lines_count=1&theme=github_dark" width="450" /></a>
+
+</div>
+
 ## 🧰 Tech Stack
 
 **Frontend**
@@ -25,16 +35,6 @@ Desarrollador Full-Stack Junior en Murcia, España. Graduado en Desarrollo de Ap
 **Herramientas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-## 🛠️ Proyectos destacados
-
-<div align="center">
-
-<a href="https://github.com/amartinezdev/cine"><img src="https://github-stats-extended.vercel.app/api/pin?username=amartinezdev&repo=amartinezdev%2FCine&description_lines_count=1&theme=github_dark" width="450" /></a>
-
-<a href="https://github.com/amartinezdev/restaurante"><img src="https://github-stats-extended.vercel.app/api/pin?username=amartinezdev&repo=amartinezdev%2Frestaurante&description_lines_count=1&theme=github_dark" width="450" /></a>
-
-</div>
 
 ## 📊 GitHub Stats
 
