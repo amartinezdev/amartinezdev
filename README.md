@@ -8,8 +8,8 @@ Graduado en DAW con expediente destacado. Construyo aplicaciones completas de pr
 
 <div align="center">
 
-<a href="https://github.com/amartinezdev/cine"><img src="https://github-stats-extended.vercel.app/api/pin?username=amartinezdev&repo=amartinezdev%2FCine&description_lines_count=1&theme=dracula" width="450" /></a>
-<a href="https://github.com/amartinezdev/restaurante"><img src="https://github-stats-extended.vercel.app/api/pin?username=amartinezdev&repo=amartinezdev%2Frestaurante&description_lines_count=1&theme=dracula" width="450" /></a>
+<a href="https://github.com/amartinezdev/cine"><img src="https://github-stats-extended.vercel.app/api/pin?username=amartinezdev&repo=amartinezdev%2FCine&description_lines_count=1&theme=darcula" width="450" /></a>
+<a href="https://github.com/amartinezdev/restaurante"><img src="https://github-stats-extended.vercel.app/api/pin?username=amartinezdev&repo=amartinezdev%2Frestaurante&description_lines_count=1&theme=darcula" width="450" /></a>
 
 </div>
 
@@ -26,15 +26,15 @@ Graduado en DAW con expediente destacado. Construyo aplicaciones completas de pr
 
 <div align="center">
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend&align=center&titleAlign=center&theme=dracula&width=600&lineCount=2&line1=html5,HTML,auto;css3,CSS,auto;javascript,JavaScript,auto&line2=react,React,auto;tailwindcss,Tailwind%20CSS,auto;astro,Astro,auto" alt="Frontend" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend&align=center&titleAlign=center&theme=darcula&width=600&lineCount=2&line1=html5,HTML,auto;css3,CSS,auto;javascript,JavaScript,auto&line2=react,React,auto;tailwindcss,Tailwind%20CSS,auto;astro,Astro,auto" alt="Frontend" />
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend&align=center&titleAlign=center&theme=dracula&width=600&lineCount=2&line1=nodedotjs,Node.js,auto;express,ExpressJS,auto;openjdk,Java,auto&line2=spring,Spring,auto;php,PHP,auto;laravel,Laravel,auto" alt="Backend" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend&align=center&titleAlign=center&theme=darcula&width=600&lineCount=2&line1=nodedotjs,Node.js,auto;express,ExpressJS,auto;openjdk,Java,auto&line2=spring,Spring,auto;php,PHP,auto;laravel,Laravel,auto" alt="Backend" />
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Bases%20de%20datos%20%26%20Herramientas&align=center&titleAlign=center&theme=dracula&width=600&line1=mysql,MySQL,auto;postgresql,PostgreSQL,auto;git,Git,auto;github,GitHub,auto;docker,Docker,auto" alt="Bases de datos y herramientas" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Bases%20de%20datos%20%26%20Herramientas&align=center&titleAlign=center&theme=darcula&width=600&line1=mysql,MySQL,auto;postgresql,PostgreSQL,auto;git,Git,auto;github,GitHub,auto;docker,Docker,auto" alt="Bases de datos y herramientas" />
 
 <br>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=amartinezdev&layout=compact&hide_progress=true&langs_count=6&hide_values=true&theme=dracula&v=2" alt="Top Lenguages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=amartinezdev&layout=compact&hide_progress=true&langs_count=6&hide_values=true&theme=darcula&v=2" alt="Top Lenguages" />
 
 </div>
 
