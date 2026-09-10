@@ -81,6 +81,10 @@
 
 ## Contacto
 
+<div align="center">
+
 [![Portfolio](https://img.shields.io/badge/alvaromartinez.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alvaromartinez.dev)
 [![LinkedIn](assets/linkedin-badge.svg)](https://www.linkedin.com/in/alvaromartinezdev/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvaromartinezdev@gmail.com)
+
+</div>
