@@ -8,6 +8,15 @@ Graduado en DAW con expediente destacado. Construyo aplicaciones completas de pr
 
 <div align="center">
 
+<a href="https://github.com/amartinezdev/stock3d-app"><img src="https://github-stats-extended.vercel.app/api/pin?username=amartinezdev&repo=amartinezdev%2Fstock3d-app&description_lines_count=1&theme=dark" width="450" /></a>
+
+</div>
+
+**[Stock3D](https://github.com/amartinezdev/stock3d-app)** — gestión de inventario de filamento 3D con auth JWT, roles y protección IDOR; separa estado mutable e histórico inmutable para que cada movimiento quede auditado. 52 tests, despliegue en Docker con HTTPS automático vía Caddy.<br>
+`Java` `Spring Boot` `Angular` `PostgreSQL` `Docker`
+
+<div align="center">
+
 <a href="https://github.com/amartinezdev/cine"><img src="https://github-stats-extended.vercel.app/api/pin?username=amartinezdev&repo=amartinezdev%2FCine&description_lines_count=1&theme=dark" width="450" /></a>
 
 </div>
@@ -23,11 +32,6 @@ Graduado en DAW con expediente destacado. Construyo aplicaciones completas de pr
 
 **[Restaurante](https://github.com/amartinezdev/restaurante)** ([_Ver demo_](https://alvaromartinez.dev/restaurante)) — gestión de pedidos y sala con 3 roles (cliente/camarero/gerente). Control de stock en tiempo real, facturación en PDF, impresión de tickets por red, CI/CD con GitHub Actions.<br>
 `PHP` `MySQL` `GitHub Actions`
-
----
-
-**Gestión de stock** *(en desarrollo)* — inventario full stack para consolidar Java + Spring Boot en el backend con Angular en el frontend. <br>
-`Java` `Spring Boot` `Angular` `PostgreSQL`
 
 ## Stack
 
