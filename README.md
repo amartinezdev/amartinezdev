@@ -1,8 +1,19 @@
 # Álvaro Martínez
 
-**Desarrollador Full Stack Junior** · Murcia, España
+📍 **Murcia, España** | 💻 **Full Stack Junior Developer** | 🎯 **Aplicaciones de calidad**
 
-Graduado en DAW con expediente destacado. Construyo aplicaciones completas de principio a fin, de la base de datos al despliegue.
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+> Profundizando a fondo en IA aplicada al desarrollo de software.
 
 ## Proyectos destacados
 
@@ -31,7 +42,7 @@ Graduado en DAW con expediente destacado. Construyo aplicaciones completas de pr
 
 ## Stack
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend&align=center&titleAlign=center&theme=react&width=600&lineCount=2&line1=html5,HTML,auto;css3,CSS,auto;javascript,JavaScript,auto&line2=react,React,auto;tailwindcss,Tailwind%20CSS,auto;astro,Astro,auto" alt="Frontend" />
 
@@ -39,7 +50,19 @@ Graduado en DAW con expediente destacado. Construyo aplicaciones completas de pr
 
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Bases%20de%20datos%20%26%20Herramientas&align=center&titleAlign=center&theme=react&width=600&line1=mysql,MySQL,auto;postgresql,PostgreSQL,auto;git,Git,auto;github,GitHub,auto;docker,Docker,auto" alt="Bases de datos y herramientas" />
 
-</div>
+</div> -->
+
+| Categoría                         | Tecnologías                                         |
+| --------------------------------- | --------------------------------------------------- |
+| **Frontend**                      | HTML, CSS, JavaScript, React, Angular, Tailwind CSS |
+| **Backend**                       | Java, Spring, Node.js, Express, PHP, Laravel        |
+| **Bases de datos & Herramientas** | MySQL, PostgreSQL, Git, GitHub, Docker              |
+
+<!-- ## Education
+
+- 🎓 **Advanced Diploma in Web App Development (DAW)** — 2024–2026
+- 🧠 **Harvard CS50: Intro to Computer Science** — 2026
+- 🤖 **Claude Code in Action** — Anthropic — 2026 -->
 
 <!-- ## Lenguajes más usados
 
