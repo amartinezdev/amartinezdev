@@ -64,15 +64,13 @@
 - 🧠 **Harvard CS50: Intro to Computer Science** — 2026
 - 🤖 **Claude Code in Action** — Anthropic — 2026 -->
 
-<!-- ## Lenguajes más usados
-
-Distribución real de lenguajes en mis repositorios, sin curar:
+## Lenguajes más usados
 
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=amartinezdev&layout=compact&hide_progress=true&langs_count=6&hide_values=true&theme=dark&v=2" alt="Top Lenguages" />
 
-</div> -->
+</div>
 
 ## Contacto
 
