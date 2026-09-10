@@ -8,7 +8,6 @@ Graduado en DAW con expediente destacado. Construyo aplicaciones completas de pr
 
 <div align="center">
 
-<a href="https://github.com/amartinezdev/stock3d-app"><img src="https://github-stats-extended.vercel.app/api/pin?username=amartinezdev&repo=amartinezdev%2Fstock3d-app&description_lines_count=1&theme=dark" width="450" /></a>
 
 </div>
 
@@ -16,8 +15,7 @@ Graduado en DAW con expediente destacado. Construyo aplicaciones completas de pr
 `Java` `Spring Boot` `Angular` `PostgreSQL` `Docker`
 
 <div align="center">
-
-<a href="https://github.com/amartinezdev/cine"><img src="https://github-stats-extended.vercel.app/api/pin?username=amartinezdev&repo=amartinezdev%2FCine&description_lines_count=1&theme=dark" width="450" /></a>
+<br>
 
 </div>
 
@@ -25,9 +23,7 @@ Graduado en DAW con expediente destacado. Construyo aplicaciones completas de pr
 `Laravel` `PHP` `MySQL`
 
 <div align="center">
-
-<a href="https://github.com/amartinezdev/restaurante"><img src="https://github-stats-extended.vercel.app/api/pin?username=amartinezdev&repo=amartinezdev%2Frestaurante&description_lines_count=1&theme=dark" width="450" /></a>
-
+<br>
 </div>
 
 **[Restaurante](https://github.com/amartinezdev/restaurante)** ([_Ver demo_](https://alvaromartinez.dev/restaurante)) — gestión de pedidos y sala con 3 roles (cliente/camarero/gerente). Control de stock en tiempo real, facturación en PDF, impresión de tickets por red, CI/CD con GitHub Actions.<br>
