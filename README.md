@@ -52,25 +52,33 @@
 
 </div> -->
 
+<div align="center">
+
 | Categoría                         | Tecnologías                                         |
 | --------------------------------- | --------------------------------------------------- |
 | **Frontend**                      | HTML, CSS, JavaScript, React, Angular, Tailwind CSS |
 | **Backend**                       | Java, Spring, Node.js, Express, PHP, Laravel        |
 | **Bases de datos & Herramientas** | MySQL, PostgreSQL, Git, GitHub, Docker              |
 
+</div>
 <!-- ## Education
 
 - 🎓 **Advanced Diploma in Web App Development (DAW)** — 2024–2026
 - 🧠 **Harvard CS50: Intro to Computer Science** — 2026
 - 🤖 **Claude Code in Action** — Anthropic — 2026 -->
 
-## Lenguajes más usados
-
+<br>
+<br>
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=amartinezdev&layout=compact&hide_progress=true&langs_count=6&hide_values=true&theme=dark&v=2" alt="Top Lenguages" />
+<!-- <img src="https://github-stats-extended.vercel.app/api/top-langs?username=amartinezdev&layout=compact&hide_progress=true&langs_count=6&hide_values=true&theme=dark&v=2" alt="Top Lenguages" /> -->
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=amartinezdev&layout=compact&langs_count=6&theme=one_dark_pro" alt="Top Lenguages" />
 
 </div>
+
+<br>
+
 
 ## Contacto
 
